@@ -16,4 +16,3 @@ def name=(person_name)
     @this_persons_jobs
   end
  end
-
