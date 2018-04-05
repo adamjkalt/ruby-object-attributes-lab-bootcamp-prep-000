@@ -8,11 +8,6 @@ def name=(dogs_name)
    @name
  end
 
- Fido = Dog.new
- Fido.name = "Fido"
-
- puts Fido.name
-
 
  def breed=(dogs_breed)
     @breed = dogs_breed
